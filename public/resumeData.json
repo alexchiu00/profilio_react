@@ -1,0 +1,97 @@
+{
+  "main": {
+    "name": "Alex Chiu",
+    "occupation": "Software Developer",
+    "description": "A programmer who are living with his own passion",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Alex! I've been coding for about 2 years. As a Software developer I've worked with startups to help build & scale their companies. Along the journey I realized my goal existed in building effective software and learning from developing. With this passion, I am having a big interest about all field in technologies and willing to explore them. Through live learning sessions from many where, I have equipped myself in developing full-stack application and using well-known DevOps tools with hand-on experiences in real world.",
+    "contactmessage": "Get in touch with me",
+    "email": "alexchiu.t@gmail.com",
+    "phone": "",
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1LV3BY7eV7TLGaxTDYEvFCdoSKrE7X5wM/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/alex-chiu-357a1921b",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/alexchiu00",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Tach Stacks",
+    "education": [
+      {
+        "school": "Hong Kong Community college",
+        "degree": "Associate of Arts",
+        "graduated": "Sep 2018",
+        "description": "major in philosophy and logic"
+      }
+    ],
+    "work": [
+      {
+        "company": "P L Technology Limited",
+        "title": "Frontend Developer",
+        "years": "Dec 2021 - Present",
+        "description": "Develop full stack web application for Company needs, add new feature for customer service team handling users data.Supported Index software development and testing processes. Verified that software met requirements. Collaborated on future projects and innovations. Monitored and improved internal software processes."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "75%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%" 
+      },
+      {
+        "name": "Docker",
+        "level": "70%" 
+      },
+      {
+        "name": "AWS",
+        "level": "70%" 
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon-clone",
+        "category": "",
+        "image": "amazon.jpg",
+        "url": "https://amazon-0-1.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand",
+        "user": "Martin Fowler"
+      },
+      {
+        "text": "Make it work, make it right, make it fast.",
+        "user": "Kent Beck"
+      }
+    ]
+  }
+}
